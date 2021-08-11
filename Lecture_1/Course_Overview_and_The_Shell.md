@@ -1,4 +1,4 @@
-### Shell Prompt
+### Shell
 **可视化界面(这里说是Visual Interface)实际上一般说GUI(Graphiscal User Interface)**  
 Shell: 命令行界面(CLI,Command Line Interface)  
 	Windows： Powershell，Windows7以前没有pwsh。
@@ -10,7 +10,9 @@ Terminal外观：单行
 ```
 '$'左边这一串叫做**命令行提示符(Shell Prompt)**，通常包含用户名(username)，机器名称(name of machine)，路径(当前的PATH)。  
 '$'右边闪烁的光标是在请求你的输入。  
-命令通常是带着参数(argument)的执行程序。带着参数去执行，可以修改程序的行为。**参数：紧随程序名称后面，用空格分隔的东西。**  
+命令通常是带着参数(argument)的执行程序。带着参数去执行，可以修改程序的行为。  
+**参数：紧随程序名称后面，用空格分隔的东西。**  
+*后面的示例将不显示Shell Prompt*
 ##### Shell怎么知道这些程序要做什么？
 计算机操作系统通常拥有自己的**内置程序(Built-in)**，通常内嵌了终端程序，或者是Windows Explorer，浏览器这类内嵌了围绕终端工作的程序。  
 这些程序位于File System(文件系统)，让Shell有办法知道程序放在目录的什么地方。  
