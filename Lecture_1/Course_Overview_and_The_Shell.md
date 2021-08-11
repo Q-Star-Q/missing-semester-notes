@@ -1,7 +1,7 @@
 ### Shell
 **可视化界面(这里说是Visual Interface)实际上一般说GUI(Graphical User Interface)**  
 Shell: 命令行界面(CLI,Command Line Interface)  
-	Windows： Powershell，Windows7以前没有pwsh。
+	Windows： Powershell，Windows7以前没有pwsh。  
 	Linux，OSX：一般使用Bash(Bourne Again Shell)。  
 Terminal外观：单行  
 例如  
